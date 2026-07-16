@@ -1,10 +1,13 @@
 # 💫 About Me:
 <br>**Fifteen years** spent enforcing the rules in public procurement taught me something useful: whoever truly understands a compliance system knows exactly *where the cracks are*. I'm now using that leverage — **GRC, ISC² CC certification, AI governance** — to break into a technical world that didn't train me from scratch, with a declared destination: **offensive security**. I want to find vulnerabilities and attack systems for a living, not just write checklists on how to avoid them.<br>This repo is the diary of that transition. Not everything here is impressive — some of it is clearly beginner-level. I'm leaving it visible on purpose to *document my jurney*.<br>🎯 **Where I'm heading**: Red Teaming / Offensive Security<br>🪜 **How I'm getting there**: GRC → technical fundamentals → Python → homelab → pentesting<br>---
 # 🧠 What I'm working on right now: 
-- Learning **Python** from scratch, one `for` loop at a time (progress tracked in **![Khan Academy repo](https://github.com/bytesAIren/Khan-Academy_Intro-to-computer-science-_Python)**).<br>- Working on my **DISC profile** — turns out being 42% D and 38% C makes me the reliable right hand every boss wants and rarely the one asking to sit in their chair. Working on that second part.<br>- Architecting secure, **agentic AI workflows** to automate complex tender operations, data extraction, and document compliance for high-value enterprise processes.<br>- Optimizing my **local media server** and managing my digital archives (whenever my old NAS decides to cooperate).
+- Learning **Python** from scratch, one `for` loop at a time (progress tracked in **![Khan Academy repo](https://github.com/bytesAIren/Khan-Academy_Intro-to-computer-science-_Python)**).
+- Working on my **DISC profile** — turns out being 42% D and 38% C makes me the reliable right hand every boss wants and rarely the one asking to sit in their chair. Working on that second part.
+- Architecting secure, **agentic AI workflows** to automate complex tender operations, data extraction, and document compliance for high-value enterprise processes.
+- Optimizing my **local media server** and managing my digital archives (whenever my old NAS decides to cooperate).
 
 # 🛣️ Ongoing project: 
-setting up a proper homelab (containerization, secure remote access, VPN, media server) — currently blocked by practical constraints, not by lack of will.
+setting up a proper homelab (containerization, secure remote access, VPN, media server), currently blocked by practical constraints, not by lack of will.
 # 👯 I'm looking to collaborate on: 
 open-source, beginner-friendly security projects — LLM/agent red teaming projects — anything you think my profile can help with.
 # 🤝 I'm looking for help with: 
